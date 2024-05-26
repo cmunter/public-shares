@@ -1,126 +1,408 @@
 play madonna in spotify -> openApp('spotify');search('madonna');play();
 open netflix and start 3 body problem -> openApp('netflix');search('3 body problem');play();
-start playing Like a Prayer by madonna on spotify -> openApp('spotify');search('madonna Like a Prayer');play();
-get Shape of You by ed sheeran going on apple music -> openApp('apple music');search('ed sheeran Shape of You');play();
-launch apple music and search for the beatles Hey Jude -> openApp('apple music');search('the beatles Hey Jude');play();
-launch spotify and search for adele Rolling in the Deep -> openApp('spotify');search('adele Rolling in the Deep');play();
-open youtube music and play ariana grande's Thank U, Next -> openApp('youtube music');search('ariana grande Thank U, Next');play();
-I'd like to hear Shake It Off by taylor swift on apple music -> openApp('apple music');search('taylor swift Shake It Off');play();
-get Hey Jude by the beatles going on apple music -> openApp('apple music');search('the beatles Hey Jude');play();
-start playing Like a Prayer by madonna on spotify -> openApp('spotify');search('madonna Like a Prayer');play();
-get Like a Prayer by madonna going on youtube music -> openApp('youtube music');search('madonna Like a Prayer');play();
-I'd like to hear Shake It Off by taylor swift on spotify -> openApp('spotify');search('taylor swift Shake It Off');play();
-play Rolling in the Deep by adele in spotify -> openApp('spotify');search('adele Rolling in the Deep');play();
-get Rolling in the Deep by adele going on apple music -> openApp('apple music');search('adele Rolling in the Deep');play();
-start playing Halo by beyonce on youtube music -> openApp('youtube music');search('beyonce Halo');play();
-open spotify and play ariana grande's Thank U, Next -> openApp('spotify');search('ariana grande Thank U, Next');play();
-launch youtube music and search for ed sheeran Shape of You -> openApp('youtube music');search('ed sheeran Shape of You');play();
-open apple music and play madonna's Like a Prayer -> openApp('apple music');search('madonna Like a Prayer');play();
-launch youtube music and search for taylor swift Shake It Off -> openApp('youtube music');search('taylor swift Shake It Off');play();
-get Shape of You by ed sheeran going on apple music -> openApp('apple music');search('ed sheeran Shape of You');play();
-I'd like to hear Shape of You by ed sheeran on youtube music -> openApp('youtube music');search('ed sheeran Shape of You');play();
-play Hotline Bling by drake in youtube music -> openApp('youtube music');search('drake Hotline Bling');play();
-open youtube music and play the beatles's Hey Jude -> openApp('youtube music');search('the beatles Hey Jude');play();
-play Rolling in the Deep by adele in spotify -> openApp('spotify');search('adele Rolling in the Deep');play();
-play Circles by post malone in apple music -> openApp('apple music');search('post malone Circles');play();
-launch apple music and search for beyonce Halo -> openApp('apple music');search('beyonce Halo');play();
-open apple music and play beyonce's Halo -> openApp('apple music');search('beyonce Halo');play();
-play Halo by beyonce in youtube music -> openApp('youtube music');search('beyonce Halo');play();
-get Circles by post malone going on youtube music -> openApp('youtube music');search('post malone Circles');play();
-launch spotify and search for post malone Circles -> openApp('spotify');search('post malone Circles');play();
-play Rolling in the Deep by adele in spotify -> openApp('spotify');search('adele Rolling in the Deep');play();
-I'd like to hear Bad Guy by billie eilish on apple music -> openApp('apple music');search('billie eilish Bad Guy');play();
-open spotify and play taylor swift's Shake It Off -> openApp('spotify');search('taylor swift Shake It Off');play();
-I'd like to hear Like a Prayer by madonna on youtube music -> openApp('youtube music');search('madonna Like a Prayer');play();
-get Bad Guy by billie eilish going on youtube music -> openApp('youtube music');search('pop billie eilish Bad Guy');play();
-I'd like to hear Stairway to Heaven by led zeppelin on apple music -> openApp('apple music');search('rock led zeppelin Stairway to Heaven');play();
-play Bohemian Rhapsody by queen in spotify -> openApp('spotify');search('rock queen Bohemian Rhapsody');play();
-launch apple music and search for kendrick lamar HUMBLE. -> openApp('apple music');search('hip-hop kendrick lamar HUMBLE.');play();
-I'd like to hear So What by miles davis on youtube music -> openApp('youtube music');search('jazz miles davis So What');play();
-get Fur Elise by ludwig van beethoven going on spotify -> openApp('spotify');search('classical ludwig van beethoven Fur Elise');play();
-open spotify and play johnny cash's Ring of Fire -> openApp('spotify');search('country johnny cash Ring of Fire');play();
-play Get Lucky by daft punk in apple music -> openApp('apple music');search('electronic daft punk Get Lucky');play();
-launch youtube music and search for bob marley No Woman, No Cry -> openApp('youtube music');search('reggae bob marley No Woman, No Cry');play();
-I'd like to hear Strange Fruit by billie holiday on apple music -> openApp('apple music');search('jazz billie holiday Strange Fruit');play();
-get HUMBLE. by kendrick lamar going on youtube music -> openApp('youtube music');search('hip-hop kendrick lamar HUMBLE.');play();
-start playing Bad Guy by billie eilish on apple music -> openApp('apple music');search('pop billie eilish Bad Guy');play();
-I'd like to hear Jolene by dolly parton on spotify -> openApp('spotify');search('country dolly parton Jolene');play();
-play A Love Supreme by john coltrane in spotify -> openApp('spotify');search('jazz john coltrane A Love Supreme');play();
-launch youtube music and search for billie eilish Bad Guy -> openApp('youtube music');search('pop billie eilish Bad Guy');play();
-play No Woman, No Cry by bob marley in youtube music -> openApp('youtube music');search('reggae bob marley No Woman, No Cry');play();
-get Shape of You by ed sheeran going on spotify -> openApp('spotify');search('pop ed sheeran Shape of You');play();
-get Bad Guy by billie eilish going on spotify -> openApp('spotify');search('pop billie eilish Bad Guy');play();
-launch spotify and search for billie eilish Bad Guy -> openApp('spotify');search('pop billie eilish Bad Guy');play();
-get Stairway to Heaven by led zeppelin going on youtube music -> openApp('youtube music');search('rock led zeppelin Stairway to Heaven');play();
-open spotify and play willie nelson's On the Road Again -> openApp('spotify');search('country willie nelson On the Road Again');play();
-get Stairway to Heaven by led zeppelin going on spotify -> openApp('spotify');search('rock led zeppelin Stairway to Heaven');play();
-get Jolene by dolly parton going on spotify -> openApp('spotify');search('country dolly parton Jolene');play();
-launch apple music and search for billie holiday Strange Fruit -> openApp('apple music');search('jazz billie holiday Strange Fruit');play();
-play Wake Me Up by avicii in apple music -> openApp('apple music');search('electronic avicii Wake Me Up');play();
-start playing Bohemian Rhapsody by queen on youtube music -> openApp('youtube music');search('rock queen Bohemian Rhapsody');play();
-get Ring of Fire by johnny cash going on apple music -> openApp('apple music');search('country johnny cash Ring of Fire');play();
-play Bad Guy by billie eilish in youtube music -> openApp('youtube music');search('pop billie eilish Bad Guy');play();
-open youtube music and play john coltrane a love supreme -> openapp('youtube music');search('jazz john coltrane a love supreme');play()
-get strange fruit by billie holiday going on apple music -> openapp('apple music');search('jazz billie holiday strange fruit');play()
-start playing legalize it by peter tosh on spotify -> openapp('spotify');search('reggae peter tosh legalize it');play()
-start playing bohemian rhapsody by queen on apple music -> openapp('apple music');search('rock queen bohemian rhapsody');play()
-get jolene by dolly parton going on youtube music -> openapp('youtube music');search('country dolly parton jolene');play()
-play so what by miles davis in spotify -> openapp('spotify');search('jazz miles davis so what');play()
-launch youtube music and search for billie holiday strange fruit -> openapp('youtube music');search('jazz billie holiday strange fruit');play()
-i'd like to hear on the road again by willie nelson on youtube music -> openapp('youtube music');search('country willie nelson on the road again');play()
-play wake me up by avicii in apple music -> openapp('apple music');search('electronic avicii wake me up');play()
-open apple music and play taylor swift shake it off -> openapp('apple music');search('pop taylor swift shake it off');play()
-play ring of fire by johnny cash in spotify -> openapp('spotify');search('country johnny cash ring of fire');play()
-launch apple music and search for led zeppelin stairway to heaven -> openapp('apple music');search('rock led zeppelin stairway to heaven');play()
-start playing get lucky by daft punk on youtube music -> openapp('youtube music');search('electronic daft punk get lucky');play()
-open youtube music and play drake hotline bling -> openapp('youtube music');search('hip-hop drake hotline bling');play()
-i'd like to hear fur elise by ludwig van beethoven on spotify -> openapp('spotify');search('classical ludwig van beethoven fur elise');play()
-get air on the g string by johann sebastian bach going on apple music -> openapp('apple music');search('classical johann sebastian bach air on the g string');play()
-play eine kleine nachtmusik by wolfgang amadeus mozart in youtube music -> openapp('youtube music');search('classical wolfgang amadeus mozart eine kleine nachtmusik');play()
-launch apple music and search for kendrick lamar humble -> openapp('apple music');search('hip-hop kendrick lamar humble');play()
-open spotify and play kanye west stronger -> openapp('spotify');search('hip-hop kanye west stronger');play()
-i'd like to hear the harder they come by jimmy cliff on youtube music -> openapp('youtube music');search('reggae jimmy cliff the harder they come');play()
-play no woman no cry by bob marley in spotify -> openapp('spotify');search('reggae bob marley no woman no cry');play()
-get shake it off by taylor swift going on apple music -> openapp('apple music');search('pop taylor swift shake it off');play()
-open apple music and play bohemian rhapsody by queen -> openapp('apple music');search('rock queen bohemian rhapsody');play()
-play bad guy by billie eilish in youtube music -> openapp('youtube music');search('pop billie eilish bad guy');play()
-start playing wake me up by avicii on spotify -> openapp('spotify');search('electronic avicii wake me up');play()
-get strange fruit by billie holiday going on youtube music -> openapp('youtube music');search('jazz billie holiday strange fruit');play()
-play on the road again by willie nelson in apple music -> openapp('apple music');search('country willie nelson on the road again');play()
-i'd like to hear shape of you by ed sheeran on spotify -> openapp('spotify');search('pop ed sheeran shape of you');play()
-launch spotify and search for billie eilish bad guy -> openapp('spotify');search('pop billie eilish bad guy');play()
-start playing get lucky by daft punk on apple music -> openapp('apple music');search('electronic daft punk get lucky');play()
-open apple music and play kendrick lamar humble -> openapp('apple music');search('hip-hop kendrick lamar humble');play()
-play air on the g string by johann sebastian bach in youtube music -> openapp('youtube music');search('classical johann sebastian bach air on the g string');play()
-launch youtube music and search for led zeppelin stairway to heaven -> openapp('youtube music');search('rock led zeppelin stairway to heaven');play()
-i'd like to hear no woman no cry by bob marley on apple music -> openapp('apple music');search('reggae bob marley no woman no cry');play()
-get get lucky by daft punk going on spotify -> openapp('spotify');search('electronic daft punk get lucky');play()
-start playing fur elise by ludwig van beethoven on youtube music -> openapp('youtube music');search('classical ludwig van beethoven fur elise');play()
-launch spotify and search for miles davis so what -> openapp('spotify');search('jazz miles davis so what');play()
-play so what by miles davis in youtube music -> openapp('youtube music');search('jazz miles davis so what');play()
-i'd like to hear strange fruit by billie holiday on apple music -> openapp('apple music');search('jazz billie holiday strange fruit');play()
-open youtube music and play fur elise by ludwig van beethoven -> openapp('youtube music');search('classical ludwig van beethoven fur elise');play()
-play shape of you by ed sheeran in apple music -> openapp('apple music');search('pop ed sheeran shape of you');play()
-get wake me up by avicii going on youtube music -> openapp('youtube music');search('electronic avicii wake me up');play()
-start playing ring of fire by johnny cash on apple music -> openapp('apple music');search('country johnny cash ring of fire');play()
-launch youtube music and search for john coltrane a love supreme -> openapp('youtube music');search('jazz john coltrane a love supreme');play()
-open spotify and play legalize it by peter tosh -> openapp('spotify');search('reggae peter tosh legalize it');play()
-i'd like to hear strange fruit by billie holiday on youtube music -> openapp('youtube music');search('jazz billie holiday strange fruit');play()
-play on the road again by willie nelson in spotify -> openapp('spotify');search('country willie nelson on the road again');play()
-get so what by miles davis going on apple music -> openapp('apple music');search('jazz miles davis so what');play()
-launch spotify and search for kanye west stronger -> openapp('spotify');search('hip-hop kanye west stronger');play()
-start playing a love supreme by john coltrane on apple music -> openapp('apple music');search('jazz john coltrane a love supreme');play()
-open apple music and play led zeppelin stairway to heaven -> openapp('apple music');search('rock led zeppelin stairway to heaven');play()
-i'd like to hear dolly parton jolene on youtube music -> openapp('youtube music');search('country dolly parton jolene');play()
-play miles davis so what in spotify -> openapp('spotify');search('jazz miles davis so what');play()
-get billie holiday strange fruit going on apple music -> openapp('apple music');search('jazz billie holiday strange fruit');play()
-launch apple music and search for johnny cash ring of fire -> openapp('apple music');search('country johnny cash ring of fire');play()
-start playing ed sheeran shape of you on spotify -> openapp('spotify');search('pop ed sheeran shape of you');play()
-open youtube music and play taylor swift shake it off -> openapp('youtube music');search('pop taylor swift shake it off');play()
-i'd like to hear the beatles hey jude on apple music -> openapp('apple music');search('rock the beatles hey jude');play()
-play dolly parton jolene in spotify -> openapp('spotify');search('country dolly parton jolene');play()
-get kendrick lamar humble going on youtube music -> openapp('youtube music');search('hip-hop kendrick lamar humble');play()
-launch spotify and search for led zeppelin stairway to heaven -> openapp('spotify');search('rock led zeppelin stairway to heaven');play()
-start playing bob marley no woman no cry on youtube music -> openapp('youtube music');search('reggae bob marley no woman no cry');play()
-play billie eilish bad guy in apple music -> openapp('apple music');search('pop billie eilish bad guy');play()
-open youtube music and play wolfgang amadeus mozart eine kleine nachtmusik -> openapp('youtube music');search('classical wolfgang amadeus mozart eine kleine nachtmusik');play()
+play hotel california by the eagles in spotify -> openApp('spotify');search('hotel california by the eagles');play();
+open spotify and start thriller by michael jackson -> openApp('spotify');search('thriller by michael jackson');play();
+get bad guy by billie eilish going on youtube music -> openApp('youtube music');search('bad guy by billie eilish');play();
+start playing bohemian rhapsody by queen on apple music -> openApp('apple music');search('bohemian rhapsody by queen');play();
+launch apple music and search for led zeppelin stairway to heaven -> openApp('apple music');search('led zeppelin stairway to heaven');play();
+play billie jean by michael jackson in spotify -> openApp('spotify');search('billie jean by michael jackson');play();
+open youtube music and start old town road by lil nas x -> openApp('youtube music');search('old town road by lil nas x');play();
+get blinding lights by the weeknd going on apple music -> openApp('apple music');search('blinding lights by the weeknd');play();
+start playing rolling in the deep by adele on spotify -> openApp('spotify');search('rolling in the deep by adele');play();
+launch spotify and search for nirvana smells like teen spirit -> openApp('spotify');search('nirvana smells like teen spirit');play();
+play one by metallica in apple music -> openApp('apple music');search('one by metallica');play();
+open youtube music and start uptown funk by mark ronson -> openApp('youtube music');search('uptown funk by mark ronson');play();
+get imagine by john lennon going on spotify -> openApp('spotify');search('imagine by john lennon');play();
+start playing shake it off by taylor swift on apple music -> openApp('apple music');search('shake it off by taylor swift');play();
+launch youtube music and search for despacito by luis fonsi -> openApp('youtube music');search('despacito by luis fonsi');play();
+play hey jude by the beatles in spotify -> openApp('spotify');search('hey jude by the beatles');play();
+open spotify and start someone like you by adele -> openApp('spotify');search('someone like you by adele');play();
+get chandelier by sia going on youtube music -> openApp('youtube music');search('chandelier by sia');play();
+start playing sweet child o mine by guns n roses on apple music -> openApp('apple music');search('sweet child o mine by guns n roses');play();
+launch apple music and search for lose yourself by eminem -> openApp('apple music');search('lose yourself by eminem');play();
+play yesterday by the beatles in spotify -> openApp('spotify');search('yesterday by the beatles');play();
+open youtube music and start shake it off by taylor swift -> openApp('youtube music');search('shake it off by taylor swift');play();
+get bad romance by lady gaga going on apple music -> openApp('apple music');search('bad romance by lady gaga');play();
+start playing rolling in the deep by adele on youtube music -> openApp('youtube music');search('rolling in the deep by adele');play();
+launch spotify and search for in the end by linkin park -> openApp('spotify');search('in the end by linkin park');play();
+play what a wonderful world by louis armstrong in apple music -> openApp('apple music');search('what a wonderful world by louis armstrong');play();
+open spotify and start paint it black by the rolling stones -> openApp('spotify');search('paint it black by the rolling stones');play();
+get take me to church by hozier going on youtube music -> openApp('youtube music');search('take me to church by hozier');play();
+start playing single ladies by beyoncé on apple music -> openApp('apple music');search('single ladies by beyoncé');play();
+launch apple music and search for satisfaction by the rolling stones -> openApp('apple music');search('satisfaction by the rolling stones');play();
+play september by earth wind and fire in spotify -> openApp('spotify');search('september by earth wind and fire');play();
+open youtube music and start nothing else matters by metallica -> openApp('youtube music');search('nothing else matters by metallica');play();
+get bohemian like you by the dandy warhols going on apple music -> openApp('apple music');search('bohemian like you by the dandy warhols');play();
+start playing wonderwall by oasis on spotify -> openApp('spotify');search('wonderwall by oasis');play();
+launch spotify and search for africa by toto -> openApp('spotify');search('africa by toto');play();
+play smooth criminal by michael jackson in apple music -> openApp('apple music');search('smooth criminal by michael jackson');play();
+open youtube music and start beat it by michael jackson -> openApp('youtube music');search('beat it by michael jackson');play();
+get poker face by lady gaga going on spotify -> openApp('spotify');search('poker face by lady gaga');play();
+start playing halo by beyoncé on apple music -> openApp('apple music');search('halo by beyoncé');play();
+launch apple music and search for with or without you by u2 -> openApp('apple music');search('with or without you by u2');play();
+play hotel california by the eagles in youtube music -> openApp('youtube music');search('hotel california by the eagles');play();
+open spotify and start happy by pharrell williams -> openApp('spotify');search('happy by pharrell williams');play();
+get beautiful day by u2 going on apple music -> openApp('apple music');search('beautiful day by u2');play();
+start playing fix you by coldplay on youtube music -> openApp('youtube music');search('fix you by coldplay');play();
+launch spotify and search for radioactive by imagine dragons -> openApp('spotify');search('radioactive by imagine dragons');play();
+play yellow by coldplay in apple music -> openApp('apple music');search('yellow by coldplay');play();
+open youtube music and start zombie by the cranberries -> openApp('youtube music');search('zombie by the cranberries');play();
+get smells like teen spirit by nirvana going on spotify -> openApp('spotify');search('smells like teen spirit by nirvana');play();
+start playing american idiot by green day on apple music -> openApp('apple music');search('american idiot by green day');play();
+launch apple music and search for boulevard of broken dreams by green day -> openApp('apple music');search('boulevard of broken dreams by green day');play();
+play hotel california by the eagles in youtube music -> openApp('youtube music');search('hotel california by the eagles');play();
+open spotify and start can't stop the feeling by justin timberlake -> openApp('spotify');search('can't stop the feeling by justin timberlake');play();
+get firework by katy perry going on apple music -> openApp('apple music');search('firework by katy perry');play();
+start playing roar by katy perry on youtube music -> openApp('youtube music');search('roar by katy perry');play();
+launch spotify and search for all of me by john legend -> openApp('spotify');search('all of me by john legend');play();
+play shape of you by ed sheeran in apple music -> openApp('apple music');search('shape of you by ed sheeran');play();
+open youtube music and start closer by the chainsmokers -> openApp('youtube music');search('closer by the chainsmokers');play();
+get perfect by ed sheeran going on spotify -> openApp('spotify');search('perfect by ed sheeran');play();
+start playing let her go by passenger on apple music -> openApp('apple music');search('let her go by passenger');play();
+launch apple music and search for somebody that i used to know by gotye -> openApp('apple music');search('somebody that i used to know by gotye');play();
+play wake me up by avicii in youtube music -> openApp('youtube music');search('wake me up by avicii');play();
+open spotify and start counting stars by onerepublic -> openApp('spotify');search('counting stars by onerepublic');play();
+get lean on by major lazer going on apple music -> openApp('apple music');search('lean on by major lazer');play();
+start playing sunlight by the magician on youtube music -> openApp('youtube music');search('sunlight by the magician');play();
+launch spotify and search for rather be by clean bandit -> openApp('spotify');search('rather be by clean bandit');play();
+play stay by zedd in apple music -> openApp('apple music');search('stay by zedd');play();
+open youtube music and start titanium by david guetta -> openApp('youtube music');search('titanium by david guetta');play();
+get wake me up by avicii going on spotify -> openApp('spotify');search('wake me up by avicii');play();
+start playing get lucky by daft punk on apple music -> openApp('apple music');search('get lucky by daft punk');play();
+launch apple music and search for levels by avicii -> openApp('apple music');search('levels by avicii');play();
+play wake me up by avicii in youtube music -> openApp('youtube music');search('wake me up by avicii');play();
+open spotify and start this is what you came for by calvin harris -> openApp('spotify');search('this is what you came for by calvin harris');play();
+get turn down for what by dj snake going on apple music -> openApp('apple music');search('turn down for what by dj snake');play();
+start playing faded by alan walker on youtube music -> openApp('youtube music');search('faded by alan walker');play();
+launch spotify and search for don't you worry child by swedish house mafia -> openApp('spotify');search('don't you worry child by swedish house mafia');play();
+play animals by martin garrix in apple music -> openApp('apple music');search('animals by martin garrix');play();
+open youtube music and start summer by calvin harris -> openApp('youtube music');search('summer by calvin harris');play();
+get outside by calvin harris going on spotify -> openApp('spotify');search('outside by calvin harris');play();
+start playing lean on by major lazer on apple music -> openApp('apple music');search('lean on by major lazer');play();
+launch apple music and search for turn down for what by dj snake -> openApp('apple music');search('turn down for what by dj snake');play();
+play wake me up by avicii in youtube music -> openApp('youtube music');search('wake me up by avicii');play();
+open spotify and start waves by mr probz -> openApp('spotify');search('waves by mr probz');play();
+get starlight by muse going on apple music -> openApp('apple music');search('starlight by muse');play();
+start playing uprising by muse on youtube music -> openApp('youtube music');search('uprising by muse');play();
+launch spotify and search for knights of cydonia by muse -> openApp('spotify');search('knights of cydonia by muse');play();
+play supermassive black hole by muse in apple music -> openApp('apple music');search('supermassive black hole by muse');play();
+open youtube music and start plug in baby by muse -> openApp('youtube music');search('plug in baby by muse');play();
+get hysteria by muse going on spotify -> openApp('spotify');search('hysteria by muse');play();
+start playing time is running out by muse on apple music -> openApp('apple music');search('time is running out by muse');play();
+launch apple music and search for map of the problematique by muse -> openApp('apple music');search('map of the problematique by muse');play();
+play feeling good by muse in youtube music -> openApp('youtube music');search('feeling good by muse');play();
+open spotify and start madness by muse -> openApp('spotify');search('madness by muse');play();
+get dead inside by muse going on apple music -> openApp('apple music');search('dead inside by muse');play();
+start playing psycho by muse on youtube music -> openApp('youtube music');search('psycho by muse');play();
+launch spotify and search for mercy by muse -> openApp('spotify');search('mercy by muse');play();
+play animals by muse in apple music -> openApp('apple music');search('animals by muse');play();
+open youtube music and start revolt by muse -> openApp('youtube music');search('revolt by muse');play();
+get aftermath by muse going on spotify -> openApp('spotify');search('aftermath by muse');play();
+start playing the 2nd law by muse on apple music -> openApp('apple music');search('the 2nd law by muse');play();
+launch apple music and search for supremacy by muse -> openApp('apple music');search('supremacy by muse');play();
+play survive by muse in youtube music -> openApp('youtube music');search('survive by muse');play();
+open spotify and start the dark side by muse -> openApp('spotify');search('the dark side by muse');play();
+get pressure by muse going on apple music -> openApp('apple music');search('pressure by muse');play();
+start playing algorithm by muse on youtube music -> openApp('youtube music');search('algorithm by muse');play();
+launch spotify and search for blockades by muse -> openApp('spotify');search('blockades by muse');play();
+play break it to me by muse in apple music -> openApp('apple music');search('break it to me by muse');play();
+open youtube music and start the void by muse -> openApp('youtube music');search('the void by muse');play();
+get neutron star collision by muse going on spotify -> openApp('spotify');search('neutron star collision by muse');play();
+start playing resistance by muse on apple music -> openApp('apple music');search('resistance by muse');play();
+launch apple music and search for undisclosed desires by muse -> openApp('apple music');search('undisclosed desires by muse');play();
+play mk ultra by muse in youtube music -> openApp('youtube music');search('mk ultra by muse');play();
+open spotify and start exogenesis symphony by muse -> openApp('spotify');search('exogenesis symphony by muse');play();
+get guiding light by muse going on apple music -> openApp('apple music');search('guiding light by muse');play();
+start playing i belong to you by muse on youtube music -> openApp('youtube music');search('i belong to you by muse');play();
+launch spotify and search for uninvited guest by muse -> openApp('spotify');search('uninvited guest by muse');play();
+play easily by muse in apple music -> openApp('apple music');search('easily by muse');play();
+open youtube music and start instant messenger by muse -> openApp('youtube music');search('instant messenger by muse');play();
+get thrill by muse going on spotify -> openApp('spotify');search('thrill by muse');play();
+start playing do we need this by muse on apple music -> openApp('apple music');search('do we need this by muse');play();
+launch apple music and search for eternity by muse -> openApp('apple music');search('eternity by muse');play();
+play forever by muse in youtube music -> openApp('youtube music');search('forever by muse');play();
+open spotify and start coma by muse -> openApp('spotify');search('coma by muse');play();
+get showbiz by muse going on apple music -> openApp('apple music');search('showbiz by muse');play();
+start playing falling down by muse on youtube music -> openApp('youtube music');search('falling down by muse');play();
+launch spotify and search for cave by muse -> openApp('spotify');search('cave by muse');play();
+play muscle museum by muse in apple music -> openApp('apple music');search('muscle museum by muse');play();
+open youtube music and start fillip by muse -> openApp('youtube music');search('fillip by muse');play();
+get doomsday by muse going on spotify -> openApp('spotify');search('doomsday by muse');play();
+start playing eternity by muse on apple music -> openApp('apple music');search('eternity by muse');play();
+launch apple music and search for recoil by muse -> openApp('apple music');search('recoil by muse');play();
+play revolt by muse in youtube music -> openApp('youtube music');search('revolt by muse');play();
+open spotify and start afterlight by muse -> openApp('spotify');search('afterlight by muse');play();
+get polarise by muse going on apple music -> openApp('apple music');search('polarise by muse');play();
+start playing liberation by muse on youtube music -> openApp('youtube music');search('liberation by muse');play();
+launch spotify and search for verona by muse -> openApp('spotify');search('verona by muse');play();
+play euphoria by muse in apple music -> openApp('apple music');search('euphoria by muse');play();
+open youtube music and start we are fucking fucked by muse -> openApp('youtube music');search('we are fucking fucked by muse');play();
+get madness by muse going on spotify -> openApp('spotify');search('madness by muse');play();
+start playing psycho by muse on apple music -> openApp('apple music');search('psycho by muse');play();
+launch apple music and search for knights of cydonia by muse -> openApp('apple music');search('knights of cydonia by muse');play();
+play hysteria by muse in youtube music -> openApp('youtube music');search('hysteria by muse');play();
+open spotify and start time is running out by muse -> openApp('spotify');search('time is running out by muse');play();
+get uprising by muse going on apple music -> openApp('apple music');search('uprising by muse');play();
+start playing supermassive black hole by muse on youtube music -> openApp('youtube music');search('supermassive black hole by muse');play();
+launch spotify and search for feeling good by muse -> openApp('spotify');search('feeling good by muse');play();
+play dead inside by muse in apple music -> openApp('apple music');search('dead inside by muse');play();
+open youtube music and start the 2nd law by muse -> openApp('youtube music');search('the 2nd law by muse');play();
+get supremacy by muse going on spotify -> openApp('spotify');search('supremacy by muse');play();
+start playing survive by muse on apple music -> openApp('apple music');search('survive by muse');play();
+launch apple music and search for neutron star collision by muse -> openApp('apple music');search('neutron star collision by muse');play();
+open youtube music and start lean on by major lazer -> openApp('youtube music');search('lean on by major lazer');play();
+get hello by adele going on apple music -> openApp('apple music');search('hello by adele');play();
+start playing chandelier by sia on spotify -> openApp('spotify');search('chandelier by sia');play();
+launch spotify and search for uptown funk by mark ronson -> openApp('spotify');search('uptown funk by mark ronson');play();
+play stay with me by sam smith in apple music -> openApp('apple music');search('stay with me by sam smith');play();
+open youtube music and start see you again by wiz khalifa -> openApp('youtube music');search('see you again by wiz khalifa');play();
+get thinking out loud by ed sheeran going on spotify -> openApp('spotify');search('thinking out loud by ed sheeran');play();
+start playing all about that bass by meghan trainor on apple music -> openApp('apple music');search('all about that bass by meghan trainor');play();
+launch apple music and search for counting stars by onerepublic -> openApp('apple music');search('counting stars by onerepublic');play();
+play dark horse by katy perry in youtube music -> openApp('youtube music');search('dark horse by katy perry');play();
+open spotify and start royals by lorde -> openApp('spotify');search('royals by lorde');play();
+get blank space by taylor swift going on apple music -> openApp('apple music');search('blank space by taylor swift');play();
+start playing take me to church by hozier on youtube music -> openApp('youtube music');search('take me to church by hozier');play();
+launch spotify and search for stay with me by sam smith -> openApp('spotify');search('stay with me by sam smith');play();
+play wrecking ball by miley cyrus in apple music -> openApp('apple music');search('wrecking ball by miley cyrus');play();
+open youtube music and start somebody that i used to know by gotye -> openApp('youtube music');search('somebody that i used to know by gotye');play();
+get wake me up by avicii going on spotify -> openApp('spotify');search('wake me up by avicii');play();
+start playing let her go by passenger on apple music -> openApp('apple music');search('let her go by passenger');play();
+launch apple music and search for blurred lines by robin thicke -> openApp('apple music');search('blurred lines by robin thicke');play();
+play radioactive by imagine dragons in youtube music -> openApp('youtube music');search('radioactive by imagine dragons');play();
+open spotify and start happy by pharrell williams -> openApp('spotify');search('happy by pharrell williams');play();
+get pompeii by bastille going on apple music -> openApp('apple music');search('pompeii by bastille');play();
+start playing roar by katy perry on youtube music -> openApp('youtube music');search('roar by katy perry');play();
+launch spotify and search for counting stars by onerepublic -> openApp('spotify');search('counting stars by onerepublic');play();
+play titanium by david guetta in apple music -> openApp('apple music');search('titanium by david guetta');play();
+open youtube music and start treasure by bruno mars -> openApp('youtube music');search('treasure by bruno mars');play();
+get locked out of heaven by bruno mars going on spotify -> openApp('spotify');search('locked out of heaven by bruno mars');play();
+start playing mirrors by justin timberlake on apple music -> openApp('apple music');search('mirrors by justin timberlake');play();
+launch apple music and search for suit and tie by justin timberlake -> openApp('apple music');search('suit and tie by justin timberlake');play();
+play can't hold us by macklemore in youtube music -> openApp('youtube music');search('can't hold us by macklemore');play();
+open spotify and start thrift shop by macklemore -> openApp('spotify');search('thrift shop by macklemore');play();
+get i knew you were trouble by taylor swift going on apple music -> openApp('apple music');search('i knew you were trouble by taylor swift');play();
+start playing we are young by fun on youtube music -> openApp('youtube music');search('we are young by fun');play();
+launch spotify and search for somebody that i used to know by gotye -> openApp('spotify');search('somebody that i used to know by gotye');play();
+play we found love by rihanna in apple music -> openApp('apple music');search('we found love by rihanna');play();
+open youtube music and start starships by nicki minaj -> openApp('youtube music');search('starships by nicki minaj');play();
+get call me maybe by carly rae jepsen going on spotify -> openApp('spotify');search('call me maybe by carly rae jepsen');play();
+start playing rolling in the deep by adele on apple music -> openApp('apple music');search('rolling in the deep by adele');play();
+launch apple music and search for set fire to the rain by adele -> openApp('apple music');search('set fire to the rain by adele');play();
+play super bass by nicki minaj in youtube music -> openApp('youtube music');search('super bass by nicki minaj');play();
+open spotify and start rolling in the deep by adele -> openApp('spotify');search('rolling in the deep by adele');play();
+get the lazy song by bruno mars going on apple music -> openApp('apple music');search('the lazy song by bruno mars');play();
+start playing just the way you are by bruno mars on youtube music -> openApp('youtube music');search('just the way you are by bruno mars');play();
+launch spotify and search for grenade by bruno mars -> openApp('spotify');search('grenade by bruno mars');play();
+play rolling in the deep by adele in apple music -> openApp('apple music');search('rolling in the deep by adele');play();
+open youtube music and start dynamite by taio cruz -> openApp('youtube music');search('dynamite by taio cruz');play();
+get teenage dream by katy perry going on spotify -> openApp('spotify');search('teenage dream by katy perry');play();
+start playing only girl by rihanna on apple music -> openApp('apple music');search('only girl by rihanna');play();
+launch apple music and search for firework by katy perry -> openApp('apple music');search('firework by katy perry');play();
+play california gurls by katy perry in youtube music -> openApp('youtube music');search('california gurls by katy perry');play();
+open spotify and start love the way you lie by eminem -> openApp('spotify');search('love the way you lie by eminem');play();
+get just the way you are by bruno mars going on apple music -> openApp('apple music');search('just the way you are by bruno mars');play();
+start playing dynamite by taio cruz on youtube music -> openApp('youtube music');search('dynamite by taio cruz');play();
+launch spotify and search for not afraid by eminem -> openApp('spotify');search('not afraid by eminem');play();
+play airplanes by b.o.b in apple music -> openApp('apple music');search('airplanes by b.o.b');play();
+open youtube music and start i gotta feeling by the black eyed peas -> openApp('youtube music');search('i gotta feeling by the black eyed peas');play();
+get tik tok by kesha going on spotify -> openApp('spotify');search('tik tok by kesha');play();
+start playing use somebody by kings of leon on apple music -> openApp('apple music');search('use somebody by kings of leon');play();
+launch apple music and search for empire state of mind by jay z -> openApp('apple music');search('empire state of mind by jay z');play();
+play party in the usa by miley cyrus in youtube music -> openApp('youtube music');search('party in the usa by miley cyrus');play();
+open spotify and start just dance by lady gaga -> openApp('spotify');search('just dance by lady gaga');play();
+get viva la vida by coldplay going on apple music -> openApp('apple music');search('viva la vida by coldplay');play();
+start playing low by flo rida on youtube music -> openApp('youtube music');search('low by flo rida');play();
+launch spotify and search for i kissed a girl by katy perry -> openApp('spotify');search('i kissed a girl by katy perry');play();
+play poker face by lady gaga in apple music -> openApp('apple music');search('poker face by lady gaga');play();
+open youtube music and start single ladies by beyoncé -> openApp('youtube music');search('single ladies by beyoncé');play();
+get halo by beyoncé going on spotify -> openApp('spotify');search('halo by beyoncé');play();
+start playing love story by taylor swift on apple music -> openApp('apple music');search('love story by taylor swift');play();
+launch apple music and search for boom boom pow by the black eyed peas -> openApp('apple music');search('boom boom pow by the black eyed peas');play();
+play sex on fire by kings of leon in youtube music -> openApp('youtube music');search('sex on fire by kings of leon');play();
+open spotify and start viva la vida by coldplay -> openApp('spotify');search('viva la vida by coldplay');play();
+get hot n cold by katy perry going on apple music -> openApp('apple music');search('hot n cold by katy perry');play();
+start playing just dance by lady gaga on youtube music -> openApp('youtube music');search('just dance by lady gaga');play();
+launch spotify and search for bleeding love by leona lewis -> openApp('spotify');search('bleeding love by leona lewis');play();
+play umbrella by rihanna in apple music -> openApp('apple music');search('umbrella by rihanna');play();
+open youtube music and start apologize by onerepublic -> openApp('youtube music');search('apologize by onerepublic');play();
+get crank that by soulja boy going on spotify -> openApp('spotify');search('crank that by soulja boy');play();
+start playing beautiful girls by sean kingston on apple music -> openApp('apple music');search('beautiful girls by sean kingston');play();
+launch apple music and search for stronger by kanye west -> openApp('apple music');search('stronger by kanye west');play();
+play hey there delilah by plain white t's in youtube music -> openApp('youtube music');search('hey there delilah by plain white t's');play();
+open spotify and start girlfriend by avril lavigne -> openApp('spotify');search('girlfriend by avril lavigne');play();
+get irreplaceable by beyoncé going on apple music -> openApp('apple music');search('irreplaceable by beyoncé');play();
+start playing this love by maroon 5 on youtube music -> openApp('youtube music');search('this love by maroon 5');play();
+launch spotify and search for sexyback by justin timberlake -> openApp('spotify');search('sexyback by justin timberlake');play();
+play crazy by gnarls barkley in apple music -> openApp('apple music');search('crazy by gnarls barkley');play();
+open youtube music and start temperature by sean paul -> openApp('youtube music');search('temperature by sean paul');play();
+get hips don't lie by shakira going on spotify -> openApp('spotify');search('hips don't lie by shakira');play();
+start playing you're beautiful by james blunt on apple music -> openApp('apple music');search('you're beautiful by james blunt');play();
+launch apple music and search for my humps by the black eyed peas -> openApp('apple music');search('my humps by the black eyed peas');play();
+play gold digger by kanye west in youtube music -> openApp('youtube music');search('gold digger by kanye west');play();
+open spotify and start hollaback girl by gwen stefani -> openApp('spotify');search('hollaback girl by gwen stefani');play();
+get don't cha by the pussycat dolls going on apple music -> openApp('apple music');search('don't cha by the pussycat dolls');play();
+start playing drop it like it's hot by snoop dogg on youtube music -> openApp('youtube music');search('drop it like it's hot by snoop dogg');play();
+launch spotify and search for boulevard of broken dreams by green day -> openApp('spotify');search('boulevard of broken dreams by green day');play();
+play since u been gone by kelly clarkson in apple music -> openApp('apple music');search('since u been gone by kelly clarkson');play();
+open youtube music and start breakaway by kelly clarkson -> openApp('youtube music');search('breakaway by kelly clarkson');play();
+get yeah by usher going on spotify -> openApp('spotify');search('yeah by usher');play();
+start playing hey ya by outkast on apple music -> openApp('apple music');search('hey ya by outkast');play();
+launch apple music and search for milkshake by kelis -> openApp('apple music');search('milkshake by kelis');play();
+play numb by linkin park in youtube music -> openApp('youtube music');search('numb by linkin park');play();
+open spotify and start the reason by hoobastank -> openApp('spotify');search('the reason by hoobastank');play();
+get in da club by 50 cent going on apple music -> openApp('apple music');search('in da club by 50 cent');play();
+start playing bring me to life by evanescence on youtube music -> openApp('youtube music');search('bring me to life by evanescence');play();
+launch spotify and search for crazy in love by beyoncé -> openApp('spotify');search('crazy in love by beyoncé');play();
+play right thurr by chingy in apple music -> openApp('apple music');search('right thurr by chingy');play();
+open youtube music and start crazy in love by beyoncé -> openApp('youtube music');search('crazy in love by beyoncé');play();
+get beautiful by christina aguilera going on spotify -> openApp('spotify');search('beautiful by christina aguilera');play();
+start playing lose yourself by eminem on apple music -> openApp('apple music');search('lose yourself by eminem');play();
+launch apple music and search for hot in herre by nelly -> openApp('apple music');search('hot in herre by nelly');play();
+play a thousand miles by vanessa carlton in youtube music -> openApp('youtube music');search('a thousand miles by vanessa carlton');play();
+open spotify and start complication by nine inch nails -> openApp('spotify');search('complication by nine inch nails');play();
+get family affair by mary j blige going on apple music -> openApp('apple music');search('family affair by mary j blige');play();
+start playing fallin' by alicia keys on youtube music -> openApp('youtube music');search('fallin' by alicia keys');play();
+launch spotify and search for island in the sun by weezer -> openApp('spotify');search('island in the sun by weezer');play();
+play one more time by daft punk in apple music -> openApp('apple music');search('one more time by daft punk');play();
+open youtube music and start it wasn't me by shaggy -> openApp('youtube music');search('it wasn't me by shaggy');play();
+get ms jackson by outkast going on spotify -> openApp('spotify');search('ms jackson by outkast');play();
+start playing independent women by destiny's child on apple music -> openApp('apple music');search('independent women by destiny's child');play();
+launch apple music and search for kryptonite by 3 doors down -> openApp('apple music');search('kryptonite by 3 doors down');play();
+play bye bye bye by nsync in youtube music -> openApp('youtube music');search('bye bye bye by nsync');play();
+open spotify and start say my name by destiny's child -> openApp('spotify');search('say my name by destiny's child');play();
+get i want it that way by backstreet boys going on apple music -> openApp('apple music');search('i want it that way by backstreet boys');play();
+start playing i try by macy gray on youtube music -> openApp('youtube music');search('i try by macy gray');play();
+launch spotify and search for no scrubs by tlc -> openApp('spotify');search('no scrubs by tlc');play();
+play the boy is mine by brandy in apple music -> openApp('apple music');search('the boy is mine by brandy');play();
+open youtube music and start hit me baby one more time by britney spears -> openApp('youtube music');search('hit me baby one more time by britney spears');play();
+get my heart will go on by celine dion going on spotify -> openApp('spotify');search('my heart will go on by celine dion');play();
+start playing i don't want to miss a thing by aerosmith on apple music -> openApp('apple music');search('i don't want to miss a thing by aerosmith');play();
+launch apple music and search for wannabe by the spice girls -> openApp('apple music');search('wannabe by the spice girls');play();
+play bittersweet symphony by the verve in youtube music -> openApp('youtube music');search('bittersweet symphony by the verve');play();
+open spotify and start iris by the goo goo dolls -> openApp('spotify');search('iris by the goo goo dolls');play();
+get torn by natalie imbruglia going on apple music -> openApp('apple music');search('torn by natalie imbruglia');play();
+start playing the freshman by the verve pipe on youtube music -> openApp('youtube music');search('the freshman by the verve pipe');play();
+launch spotify and search for the impression that i get by the mighty mighty bosstones -> openApp('spotify');search('the impression that i get by the mighty mighty bosstones');play();
+play i will always love you by whitney houston in apple music -> openApp('apple music');search('i will always love you by whitney houston');play();
+open spotify application -> openApp('spotify');
+launch the apple music now -> openApp('apple music');
+start youtube music app -> openApp('youtube music');
+open the youtube music application -> openApp('youtube music');
+launch the spotify app -> openApp('spotify');
+start the apple music application -> openApp('apple music');
+open the youtube music app -> openApp('youtube music');
+please launch the apple music application -> openApp('apple music');
+start the spotify application -> openApp('spotify');
+will you open the apple music app -> openApp('apple music');
+launch the youtube music app -> openApp('youtube music');
+come on start the spotify app -> openApp('spotify');
+open spotify -> openApp('spotify');
+launch the apple music -> openApp('apple music');
+start youtube music -> openApp('youtube music');
+please open the youtube music -> openApp('youtube music');
+can you launch the spotify -> openApp('spotify');
+start the apple music -> openApp('apple music');
+please open the youtube music -> openApp('youtube music');
+launch the apple music -> openApp('apple music');
+start the spotify now -> openApp('spotify');
+find bohemian rhapsody by queen -> search('bohemian rhapsody by queen');play();
+look up someone like you by adele -> search('someone like you by adele');play();
+search for uptown funk by mark ronson -> search('uptown funk by mark ronson');play();
+find shape of you by ed sheeran -> search('shape of you by ed sheeran');play();
+look for rolling in the deep by adele -> search('rolling in the deep by adele');play();
+search blinding lights by the weeknd -> search('blinding lights by the weeknd');play();
+find bad guy by billie eilish -> search('bad guy by billie eilish');play();
+look up chandelier by sia -> search('chandelier by sia');play();
+search for take me to church by hozier -> search('take me to church by hozier');play();
+find lose yourself by eminem -> search('lose yourself by eminem');play();
+look for sweet child o' mine by guns n' roses -> search('sweet child o' mine by guns n' roses');play();
+search bad romance by lady gaga -> search('bad romance by lady gaga');play();
+find halo by beyoncé -> search('halo by beyoncé');play();
+look up hey jude by the beatles -> search('hey jude by the beatles');play();
+search for with or without you by u2 -> search('with or without you by u2');play();
+find shake it off by taylor swift -> search('shake it off by taylor swift');play();
+look for old town road by lil nas x -> search('old town road by lil nas x');play();
+search despacito by luis fonsi -> search('despacito by luis fonsi');play();
+find all of me by john legend -> search('all of me by john legend');play();
+look up in the end by linkin park -> search('in the end by linkin park');play();
+search for firework by katy perry -> search('firework by katy perry');play();
+find rolling in the deep by adele -> search('rolling in the deep by adele');play();
+look up somebody that i used to know by gotye -> search('somebody that i used to know by gotye');play();
+search for just the way you are by bruno mars -> search('just the way you are by bruno mars');play();
+find titanium by david guetta -> search('titanium by david guetta');play();
+look for counting stars by onerepublic -> search('counting stars by onerepublic');play();
+search stay with me by sam smith -> search('stay with me by sam smith');play();
+find blank space by taylor swift -> search('blank space by taylor swift');play();
+look up royals by lorde -> search('royals by lorde');play();
+search hello by adele -> search('hello by adele');play();
+find chandelier by sia -> search('chandelier by sia');play();
+look for wake me up by avicii -> search('wake me up by avicii');play();
+search perfect by ed sheeran -> search('perfect by ed sheeran');play();
+find fix you by coldplay -> search('fix you by coldplay');play();
+look up in the end by linkin park -> search('in the end by linkin park');play();
+search poker face by lady gaga -> search('poker face by lady gaga');play();
+find roar by katy perry -> search('roar by katy perry');play();
+look for lean on by major lazer -> search('lean on by major lazer');play();
+search stay with me by sam smith -> search('stay with me by sam smith');play();
+find bad romance by lady gaga -> search('bad romance by lady gaga');play();
+look up what a wonderful world by louis armstrong -> search('what a wonderful world by louis armstrong');play();
+search old town road by lil nas x -> search('old town road by lil nas x');play();
+find sweet child o' mine by guns n' roses -> search('sweet child o' mine by guns n' roses');play();
+look for with or without you by u2 -> search('with or without you by u2');play();
+search take me to church by hozier -> search('take me to church by hozier');play();
+find shake it off by taylor swift -> search('shake it off by taylor swift');play();
+look up chandelier by sia -> search('chandelier by sia');play();
+search bohemian rhapsody by queen -> search('bohemian rhapsody by queen');play();
+find all of me by john legend -> search('all of me by john legend');play();
+look for despacito by luis fonsi -> search('despacito by luis fonsi');play();
+search firework by katy perry -> search('firework by katy perry');play();
+find blank space by taylor swift -> search('blank space by taylor swift');play();
+look up someone like you by adele -> search('someone like you by adele');play();
+search royals by lorde -> search('royals by lorde');play();
+find bad guy by billie eilish -> search('bad guy by billie eilish');play();
+look for blinding lights by the weeknd -> search('blinding lights by the weeknd');play();
+search shape of you by ed sheeran -> search('shape of you by ed sheeran');play();
+find uptown funk by mark ronson -> search('uptown funk by mark ronson');play();
+look up rolling in the deep by adele -> search('rolling in the deep by adele');play();
+search someone like you by adele -> search('someone like you by adele');play();
+find all of me by john legend -> search('all of me by john legend');play();
+look for bad romance by lady gaga -> search('bad romance by lady gaga');play();
+search blinding lights by the weeknd -> search('blinding lights by the weeknd');play();
+find chandelier by sia -> search('chandelier by sia');play();
+look up halo by beyoncé -> search('halo by beyoncé');play();
+search bad guy by billie eilish -> search('bad guy by billie eilish');play();
+find shake it off by taylor swift -> search('shake it off by taylor swift');play();
+look for sweet child o' mine by guns n' roses -> search('sweet child o' mine by guns n' roses');play();
+search hey jude by the beatles -> search('hey jude by the beatles');play();
+find with or without you by u2 -> search('with or without you by u2');play();
+look up lose yourself by eminem -> search('lose yourself by eminem');play();
+search despacito by luis fonsi -> search('despacito by luis fonsi');play();
+find take me to church by hozier -> search('take me to church by hozier');play();
+look for hello by adele -> search('hello by adele');play();
+search uptown funk by mark ronson -> search('uptown funk by mark ronson');play();
+find firework by katy perry -> search('firework by katy perry');play();
+look up in the end by linkin park -> search('in the end by linkin park');play();
+search royals by lorde -> search('royals by lorde');play();
+find all of me by john legend -> search('all of me by john legend');play();
+look for chandelier by sia -> search('chandelier by sia');play();
+search old town road by lil nas x -> search('old town road by lil nas x');play();
+find someone like you by adele please -> search('someone like you by adele');play();
+look up rolling in the deep by adele -> search('rolling in the deep by adele');play();
+can you search shape of you by ed sheeran -> search('shape of you by ed sheeran');play();
+find blinding lights by the weeknd please -> search('blinding lights by the weeknd');play();
+look for bad romance by lady gaga -> search('bad romance by lady gaga');play();
+search shake it off by taylor swift -> search('shake it off by taylor swift');play();
+find chandelier by sia -> search('chandelier by sia');play();
+look up sweet child o' mine by guns n' roses -> search('sweet child o' mine by guns n' roses');play();
+search halo by beyoncé -> search('halo by beyoncé');play();
+find hey jude by the beatles -> search('hey jude by the beatles');play();
+look for bad guy by billie eilish -> search('bad guy by billie eilish');play();
+please search uptown funk by mark ronson -> search('uptown funk by mark ronson');play();
+find lose yourself by eminem -> search('lose yourself by eminem');play();
+please look up firework by katy perry -> search('firework by katy perry');play();
+search despacito by luis fonsi -> search('despacito by luis fonsi');play();
+find with or without you by u2 -> search('with or without you by u2');play();
+look for hello by adele -> search('hello by adele');play();
+search rolling in the deep by adele -> search('rolling in the deep by adele');play();
+find take me to church by hozier -> search('take me to church by hozier');play();
